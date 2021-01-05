@@ -1,0 +1,21 @@
+body{
+    font-family: 'Merriweather', serif;
+}
+h1{
+    font-size: 50px;;
+}
+.name-highlight{
+    color:orange;
+}
+.first-slot{
+
+}
+.first-slot-left{
+    width : 40%;
+    float: left;
+    margin-left : 5%;
+    padding-left: 2%;
+}
+.first-slot-left img{
+    width : 100%;
+}
